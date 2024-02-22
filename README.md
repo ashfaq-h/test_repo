@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Python Coding Practice Repository</title>
-</head>
 <body>
 
 <h1>Python Coding Practice Repository</h1>
